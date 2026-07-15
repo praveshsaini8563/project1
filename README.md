@@ -65,19 +65,6 @@ Analysis Report & Match Score
 
 ---
 
-# 🛠 Technology Stack
-
-* Python
-* Streamlit
-* LangChain
-* Groq API
-* Llama 3.3 70B
-* Pydantic
-* PyPDF
-* Python-dotenv
-
----
-
 # ⚙️ Installation
 
 Clone the repository:
@@ -153,17 +140,6 @@ http://localhost:8501
 3. The LLM converts the content into structured candidate data.
 4. A job description is analyzed alongside the resume.
 5. The system calculates a match score and generates detailed insights.
-
----
-
-# 📈 Future Improvements
-
-* Support multiple resume formats (DOCX, TXT)
-* Resume ranking for multiple candidates
-* ATS compatibility analysis
-* Interview question generation
-* Skill recommendation engine
-* Recruiter analytics dashboard
 
 ---
 
